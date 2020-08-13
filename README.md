@@ -21,7 +21,7 @@ My motivation behind this was once you build your deep learning algorithim, it r
 
 <div align="center"><img src="scatter.png" width="500px" height="300px"</img> </div>
 <br />
-## When I can use something like this:#
+<h1>When I can use something like this:</h1>
 <br />
 <br />
 <div align="center"><img src="embGIF.gif" width="500px height="200px"</img></div>
@@ -40,11 +40,11 @@ Once you upload your word emebeddings and metadata in the projector you can sear
 <br />
 <div align="left"><img src="male.JPG"</img></div>
 <br />
-## You can see what words are mostly associated with the word "female" if your data has it:# <br />
+## You can see what words are mostly associated with the word "female" if your data has it: <br />
 <br />
 <div align="left"><img src="female.JPG"</img></div>
 <br />
-## You can even see how male and female compare to the word "food":# <br />
+## You can even see how male and female compare to the word "food": <br />
 <br />
 <div align="left"><img src="foodassoci.png"</img></div>
 
