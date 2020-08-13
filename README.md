@@ -23,7 +23,7 @@ My motivation behind this was once you build your deep learning algorithim, it r
 When I can use something like this:
 
 
-                                                                  ![Alt text](embGIF.gif?raw=true "Title")
+![Alt text](embGIF.gif?raw=true "Title")
 
 
 
