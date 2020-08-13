@@ -35,13 +35,13 @@ Once you upload your word emebeddings and metadata in the projector you can sear
 <div align="left"><img src="Engagement.JPG" </img></div>
 
 You can see what words are mostly associated with the word "male" if your data has it: <br />
-<div align="left"><img src="male.png"</img></div>
-You can see what words are mostly associated with the word "male" if your data has it: <br />
+<div align="left"><img src="male.png" width="2000px"</img></div>
+You can see what words are mostly associated with the word "female" if your data has it: <br />
 <div align="left"><img src="female.png"</img></div>
 You can see even how the word "food" is associated with **male** and **female** if your data has it: <br />
 <div align="left"><img src="foodassoc.png"</img></div>
 
-###ISN'T THIS FUN!!!! :)
+### ISN'T THIS FUN!!!! :)
 
 
 
