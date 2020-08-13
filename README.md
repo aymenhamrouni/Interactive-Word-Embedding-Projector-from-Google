@@ -21,6 +21,8 @@ My motivation behind this was once you build your deep learning algorithim, it r
 ![Alt text](scatter.png?raw=true "Title")
 
 When I can use something like this:
+
+
                                                                   ![Alt text](embGIF.gif?raw=true "Title")
 
 
