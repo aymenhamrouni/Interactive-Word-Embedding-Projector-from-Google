@@ -17,4 +17,4 @@ We do this because computers cannot understand words, they only know numbers, so
 There are multiple ways of doing this, a way that I did it was downloading a pre-trained word embedding model called GloVe, that can create those meaningful vectors for you. 
 GloVe embedddings(https://nlp.stanford.edu/projects/glove/), downloadable code is in Python file.
 
-![Alt text](scatter.PNG?raw=true "Title")
+![Alt text](scatter.png?raw=true "Title")
