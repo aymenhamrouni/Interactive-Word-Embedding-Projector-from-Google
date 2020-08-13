@@ -18,8 +18,9 @@ There are multiple ways of doing this, a way that I did it was downloading a pre
 GloVe embedddings(https://nlp.stanford.edu/projects/glove/), downloadable code is in Python file.
 
 My motivation behind this was once you build your deep learning algorithim, it really makes sense to see how your data interacts and so why would I use something like this:<br />
-<p align="center"> ![Alt text](scatter.png?raw=true "Title") <p>
-
+<div align="center">
+![Alt text](scatter.png?raw=true "Title") 
+</div>
 When I can use something like this: <br />
 
 
