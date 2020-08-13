@@ -43,6 +43,48 @@ You can even see how male and female compare to the word "food": <br />
 
 ### ISN'T THIS FUN!!!! :)
 
+# Final Remarks
+- Remember you have to have your own trained deep learning algorithim
+- Watch this Youtube: https://www.youtube.com/watch?v=ulLx2iPTIcs
+- Website for projector: https://projector.tensorflow.org/
+- Learn TSNE and PCA: https://distill.pub/2016/misread-tsne/
+- Have fun! Code is implemented above
+
+At the end of the code there is a way to download the embeddings and words into a TSV file that looks like this 
+``` Python
+import io
+
+out_v = io.open('embeddings.tsv', 'w', encoding='utf-8')
+
+for num in embedding_matrix:
+ 
+  out_v.write('\t'.join([str(x) for x in num]) + "\n")
+out_v.close()
+```
+``` Python
+import io
+
+out_m = io.open('metadata.tsv', 'w', encoding='utf-8')
+
+
+for word in word_list[:19000]:
+ 
+  
+  out_m.write(word + "\n")
+  
+
+out_m.close()
+```
+``` Python
+try:
+  from google.colab import files
+except ImportError:
+   pass
+else:
+  files.download('metadata.tsv')
+  files.download('embeddings.tsv')
+```
+
 
 
 
