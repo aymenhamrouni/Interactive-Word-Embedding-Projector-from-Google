@@ -22,7 +22,7 @@ My motivation behind this was once you build your deep learning algorithim, it r
 <div align="center"><img src="scatter.png" width="400px"</img> </div>
 When I can use something like this: <br />
 
-<div align="center"><img src="embGIF.gif" width="400px"</img></div>
+<div align="center"><img src="embGIF.gif" width="400px height="1000px"</img></div>
 
 
 
