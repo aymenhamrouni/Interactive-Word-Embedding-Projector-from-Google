@@ -22,7 +22,16 @@ My motivation behind this was once you build your deep learning algorithim, it r
 <div align="center"><img src="scatter.png" width="500px" height="400px"</img> </div>
 When I can use something like this: <br />
 
-<div align="center"><img src="embGIF.gif" width="400px height="400px"</img></div>
+<div align="center"><img src="embGIF.gif" width="500px height="400px"</img></div>
+  
+ Below is a powerpoint that can show more:
+https://github.com/brianferrell787/Interactive-Word-Embedding-Projector-from-Google-of-your-trained-neural-network/blob/master/Word%20Embeddings.pdf
+
+# Benefits
+Once you upload your word emebeddings and metadata in the projector you can search words, and see the top N words associated to it. Like this:
+<div align="left"><img src="Communitypart.JPG"</img></div>
+  
+<div align="left"><img src="Engagement.JPG" </img></div>
 
 
 
