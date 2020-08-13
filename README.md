@@ -38,8 +38,8 @@ You can see what words are mostly associated with the word "male" if your data h
 <div align="left"><img src="male.JPG"</img></div>
 You can see what words are mostly associated with the word "female" if your data has it: <br />
 <div align="left"><img src="female.png"</img></div>
-You can see even how the word "food" is associated with **male** and **female** if your data has it: <br />
-<div align="left"><img src="foodassoc.png"</img></div>
+You can even see how male and female compare to the word "food": <br />
+<div align="left"><img src="foodassoci.png"</img></div>
 
 ### ISN'T THIS FUN!!!! :)
 
