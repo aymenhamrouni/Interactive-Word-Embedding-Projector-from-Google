@@ -17,10 +17,10 @@ We do this because computers cannot understand words, they only know numbers, so
 There are multiple ways of doing this, a way that I did it was downloading a pre-trained word embedding model called GloVe, that can create those meaningful vectors for you. There are other ones besides GloVe). 
 GloVe embedddings(https://nlp.stanford.edu/projects/glove/), downloadable code is in Python file.
 
-My motivation behind this was once you build your deep learning algorithim, it really makes sense to see how your data interacts and so why would I use something like this:
+My motivation behind this was once you build your deep learning algorithim, it really makes sense to see how your data interacts and so why would I use something like this:<br />
 ![Alt text](scatter.png?raw=true "Title")
 
-When I can use something like this:
+When I can use something like this: <br />
 
 
 ![Alt text](embGIF.gif?raw=true "Title")
