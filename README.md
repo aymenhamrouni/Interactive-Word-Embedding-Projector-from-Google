@@ -20,7 +20,7 @@ GloVe embedddings(https://nlp.stanford.edu/projects/glove/), downloadable code i
 My motivation behind this was once you build your deep learning algorithim, it really makes sense to see how your data interacts and so why would I use something like this:<br />
 
 <div align="center"><img src="scatter.png" width="500px" height="300px"</img> </div>
-## When I can use something like this: 
+# When I can use something like this: 
 <br />
 <br />
 <div align="center"><img src="embGIF.gif" width="500px height="200px"</img></div>
