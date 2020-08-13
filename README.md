@@ -42,9 +42,8 @@ Once you upload your word emebeddings and metadata in the projector you can sear
 <br />
 <h3>You can see what words are mostly associated with the word "female" if your data has it:</h3> <br />
 <div align="left"><img src="female.JPG"</img></div>
-<br />
-<h3>You can even see how male and female compare to the word "food":</h3> <br />
 
+<h3>You can even see how male and female compare to the word "food":</h3> <br />
 <div align="left"><img src="foodassoci.png"</img></div>
 
 <h3>ISN'T THIS FUN!!!! :)</h3>
