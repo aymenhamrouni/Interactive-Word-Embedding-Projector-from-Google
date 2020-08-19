@@ -17,7 +17,7 @@ We do this because computers cannot understand words, they only know numbers, so
 There are multiple ways of doing this, a way that I did it was downloading a pre-trained word embedding model called GloVe, that can create those meaningful vectors for you (there are other ones besides GloVe). 
 GloVe embedddings(https://nlp.stanford.edu/projects/glove/), downloadable code is in Python file.
 
-My motivation behind this was once you build your deep learning algorithim, it really makes sense to see how your data interacts and so why would I use something like this:<br />
+My motivation behind this was once you build your deep learning algorithm, it really makes sense to see how your data interacts and so why would I use something like this:<br />
 
 <div align="center"><img src="scatter.png" width="500px" height="300px"</img> </div>
 <br />
@@ -49,7 +49,7 @@ Once you upload your word emebeddings and metadata in the projector you can sear
 <h3>ISN'T THIS FUN!!!! :)</h3>
 
 # Final Remarks
-- Remember you have to have your own trained deep learning algorithim
+- Remember you have to have your own trained deep learning algorithm
 - Watch this Youtube: https://www.youtube.com/watch?v=ulLx2iPTIcs
 - Website for projector: https://projector.tensorflow.org/
 - Learn TSNE and PCA: https://distill.pub/2016/misread-tsne/
